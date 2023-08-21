@@ -1,0 +1,44 @@
+p {
+  text-align: right;
+  margin-right: 25px;
+  position: relative;
+  bottom: 50px;
+}
+.day {
+  font-size: 30px;
+}
+
+.icon {
+  font-size: 28px;
+}
+
+h2,
+form {
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+.currentIcon {
+  font-size: 60px;
+}
+
+#day-time {
+  font-size: 24px;
+}
+
+.measure {
+  font-size: 48px;
+}
+
+.container {
+  display: block;
+  margin: auto;
+}
+
+.current {
+  background-color: yellowgreen;
+}
